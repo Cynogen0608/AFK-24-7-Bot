@@ -10,12 +10,7 @@
     "port": 61725,
     "version": "1.20.1",
     "try-creative": false
-  },
-    "server": {
-    "ip": "CYNO_BHAU_LIVE_SMP.aternos.me",
-    "port": 59182,
-    "version": "1.20.1",
-    "try-creative": false
+  
   },
   "position": {
     "enabled": true,
